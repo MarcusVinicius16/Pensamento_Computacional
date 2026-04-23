@@ -1,3 +1,3 @@
-# Tecnicas_de_desenvolvimento_de_algoritmos
+# Pensamento_Computacional
 
-este repositorios contem atividades referente a materia Tecnicas de desenvolvimento de algoritmos do curso analise e desenvolvimento de sistemas
+este repositorios contem atividades referente a materia Pensamento Computacional materia optativa do curso analise e desenvolvimento de sistemas
